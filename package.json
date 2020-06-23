@@ -1,0 +1,19 @@
+{
+  "name": "SampleNodeJs",
+  "version": "1.0.0",
+  "description": "Sample NodeJs Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaydiwan/NodJs.git"
+  },
+  "author": "Abhay Diwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaydiwan/NodJs.git/issues"
+  },
+  "homepage": "https://github.com/abhaydiwan/NodJs.git#readme"
+}
